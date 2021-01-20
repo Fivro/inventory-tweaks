@@ -1206,5 +1206,8 @@
             <rabbitsFoot id="rabbit_foot"/>
             <rabbitFoot id="rabbit_foot"/>
         </potionIngredient>
+        <fireball>
+            <fireCharge id="fire_charge"/>
+        </fireball>
     </item>
 </stuff>
